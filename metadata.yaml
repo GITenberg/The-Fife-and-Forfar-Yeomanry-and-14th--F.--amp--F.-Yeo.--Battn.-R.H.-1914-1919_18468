@@ -1,0 +1,27 @@
+_repo: The-Fife-and-Forfar-Yeomanry-and-14th--F.--amp--F.-Yeo.--Battn.-R.H.-1914-1919_18468
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18468-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Ogilvie, D. Douglas
+    gutenberg_agent_id: '8048'
+    url: http://www.gutenberg.org/2009/agents/8048
+description: ''
+gutenberg_issued: '2006-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey and the Near East'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Fife and Forfar Yeomanry'
+- !lcsh 'Great Britain. Army. Black Watch (Royal Highlanders)'
+title: The Fife and Forfar Yeomanry, and 14th (F. & F. Yeo.) Battn. R.H. 1914-1919
+url: http://www.gutenberg.org/ebooks/18468
